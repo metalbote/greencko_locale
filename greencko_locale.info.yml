@@ -1,0 +1,10 @@
+name: Locale
+description: 'Locale settings'
+type: module
+core: 8.x
+version: 8.x-1.0
+package: 'Greencko Drupal Distribution'
+dependencies:
+  - language
+  - locale
+  - tour
